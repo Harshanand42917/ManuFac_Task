@@ -18,7 +18,7 @@ Technologies Used
  
 1. Clone the repository:
    bash
-   git clone <repository-url>
+   git clone https://github.com/Harshanand42917/ManuFac_Task
    cd agriculture-analytics-dashboard
    
 2. Install the dependecies
